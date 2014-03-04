@@ -1,0 +1,9 @@
+#!/usr/bin/env python
+
+#bitsflow config
+agent_list = pc_list
+agent_port = "59632"
+agent2_port = "59633"
+agent3_port = "59634"
+agent_log_level = "Info"
+
